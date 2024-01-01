@@ -16,3 +16,11 @@ Type
 > Type: Echo
 
 ![![/#^Table]]
+- Type
+-Echo 1
+
+1. Type 
+2. Echo
+
+- [x] Type 
+- [ ] Echo
